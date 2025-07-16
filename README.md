@@ -1,2 +1,2 @@
 This is a Frontend based GYM website.<br>
-Created my Mr. Pranav Shendkar
+Created by Mr. Pranav Shendkar
